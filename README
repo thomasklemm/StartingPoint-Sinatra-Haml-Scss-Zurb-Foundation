@@ -1,0 +1,3 @@
+StartingPoint gives you a headstart when starting to develop with Sinatra, Sass/SCSS and HAML. Includes the awesome ZURB Foundation Framework.
+
+Run the server using "shotgun -s thin"
